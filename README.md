@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jincy-dev
 - 👀 I’m interested in Web and Mobile Application development
-- 🌱 I’m currently learning Mobile application development with react native
-- 💞️ I’m looking to collaborate on Flutter development projects
+- 🌱 I’m currently working in reactjs
+- 💞️ I’m looking to collaborate on full stack projects using JavaScript
 - 📫 Reach me @ https://www.linkedin.com/in/jincydev/
 
 <!---
