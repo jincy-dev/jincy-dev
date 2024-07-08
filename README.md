@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jincy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="jincy-dev" /> </p>
 
-- 🔭 I’m currently working on **Capgemini as a Senior Anlyst**
+- 🔭 I’m currently working on **Capgemini as a Senior Analyst**
 
 - 🌱 I’m currently learning **Everything**
 
 - 📫 How to reach me **jincy.dev@outlook.com** or **jincydev3007@gmail.com**
 
-- ⚡ Fun fact **When code didn't works, I've no idea why** | **When code works, I've no idea why🤯**
+- ⚡ Fun fact:  ** When code didn't works, I've no idea why** | **When code works, I've no idea why🤯**
 - **Me: It's so easy 👻**
 - **Them: What🧐**
 - **Me: Coding😵‍💫**
