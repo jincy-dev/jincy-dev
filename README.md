@@ -19,25 +19,24 @@
 </p>
 
 ```javascript
-const shreya = {
+const jincy = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "C++"],
+    code: ["Javascript", "Java"],
     askMeAbout: ["web dev", "frontend design trends", "clean designing"],
     technologies: {
         frontEnd: {
             js: ["React"],
-            css: ["Bootstrap", "Tailwind", "Materialize", "Material UI", "Bulma", "UIkit"]
+            css: ["Bootstrap", "Tailwind", "Material UI"]
         },
         backEnd: {
-            js: ["Node", "Express", "Adonis"],
+            js: ["Node", "Express"],
         },
         mobileApp: {
-            native: ["React"]
+            native: ["React", "Flutter"]
         },
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Sequalize", "Git"]
+        databases: ["mongo", "MySql"],
+        misc: ["Firebase", "Gitlab", "Git", "Kubernetes"]
     },
-    funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
