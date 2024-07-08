@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, I'm Jincy Dev</h1>
-<div style="display: flex; align-items: center;">
+<h1 align="center">Hi 👋, I'm Jincy Dev <img src="https://giphy.com/gifs/boomerangtoons-scooby-doo-boomerang-65HR2UL6nn6XMSUoRA" width="50"/></h1>
   <h3 style="text-align: center;">A frontend developer from India</h3>
   <img src="https://media.giphy.com/media/1V3KXtMHJq2YPK7xyl/giphy.gif" width="50"/>
-</div>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jincy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="jincy-dev" /> </p>
 
-- 🔭 I’m currently working on **Capgemini as an Anlyst**
+- 🔭 I’m currently working on **Capgemini as a Senior Anlyst**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Everything**
 
-- 📫 How to reach me **jincy.dev@outlook.com**
+- 📫 How to reach me **jincy.dev@outlook.com** or **jincydev3007@gmail.com**
 
-- ⚡ Fun fact **It's complicated :)**
+- ⚡ Fun fact **When code didn't works, I've no idea why** | **When code works, I've no idea why🤯**
+- **Me: It's so easy 👻**
+- **Them: What🧐**
+- **Me: Coding😵‍💫**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
