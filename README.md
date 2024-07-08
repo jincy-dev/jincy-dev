@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jincy Dev</h1>
+<h1 align="center">Hi 👋, I'm Jincy Dev (ജിൻസി ദേവ്)✨</h1>
 <h3 align="center">A frontend developer from India <img src="https://media.giphy.com/media/65HR2UL6nn6XMSUoRA/giphy.gif" align = 'right' width="200"></h3>
   <img src="https://media.giphy.com/media/1V3KXtMHJq2YPK7xyl/giphy.gif" width="50"/>
 
@@ -38,6 +38,7 @@ const jincy = {
         databases: ["Firebase", "Mongo"],
         misc: ["Firebase", "Gitlab", "Git", "Kubernetes"]
     },
+loveTo:["Sing and praise to God"],
 };
 ```
 
