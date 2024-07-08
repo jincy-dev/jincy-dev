@@ -38,7 +38,7 @@ const jincy = {
         databases: ["Firebase", "Mongo"],
         misc: ["Firebase", "Gitlab", "Git", "Kubernetes"]
     },
-loveTo:["Sing and praise to God"],
+  loveTo:["Sing and praise to God"],
 };
 ```
 
