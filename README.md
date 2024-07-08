@@ -12,10 +12,8 @@
 
 - 📫 How to reach me **jincy.dev@outlook.com** or **jincydev3007@gmail.com**
 
-- ⚡ Fun fact:  ** When code didn't works, I've no idea why** | **When code works, I've no idea why🤯**
-- **Me: It's so easy 👻**
-- **Them: What🧐**
-- **Me: Coding😵‍💫**
+- ⚡ Fun fact:  **When code didn't works, I've no idea why** | **When code works, I've no idea why🤯**
+- **Me: It's so easy 👻**, **Them: What🧐**, **Me: Coding😵‍💫** //Coz it's a fun fact 🤣
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
