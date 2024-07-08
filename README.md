@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jincy Dev</h1>
-<h3 align="center">A frontend developer from India</h3> <img  src="https://media.giphy.com/media/1V3KXtMHJq2YPK7xyl/giphy.gif" width="50"/>
+<div style={{display:"flex"}}><h3 align="center">A frontend developer from India</h3> <img  src="https://media.giphy.com/media/1V3KXtMHJq2YPK7xyl/giphy.gif" width="50"/></div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jincy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="jincy-dev" /> </p>
