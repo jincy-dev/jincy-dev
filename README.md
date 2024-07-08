@@ -18,6 +18,7 @@
 <a href="https://kaggle.com/jincydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jincydev" height="30" width="40" /></a>
 </p>
 
+<h3>Me, Myself & I🌊🐇🫧🎤 </h3>
 ```javascript
 const jincy = {
     pronouns: "She" | "Her",
