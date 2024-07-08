@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jincy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="jincy-dev" /> </p>
 
-- 🔭 I’m currently working on **Capgemini as a Senior Analyst**
+- 🔭 I’m currently working on **Goldman Sachs as Full Time Contigent**
 
 - 🌱 I’m currently learning **Everything**
 
