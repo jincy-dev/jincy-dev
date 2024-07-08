@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jincy Dev</h1>
-<h3 align="center">A frontend developer from India <img src="[https://media.giphy.com/media/QWwEdgDbYjFbfOMJ3z/giphy.gif](https://giphy.com/gifs/boomerangtoons-scooby-doo-boomerang-65HR2UL6nn6XMSUoRA)" align = 'right' width="200"></h3>
+<h3 align="center">A frontend developer from India <img src="https://media.giphy.com/media/65HR2UL6nn6XMSUoRA/giphy.gif" align = 'right' width="200"></h3>
   <img src="https://media.giphy.com/media/1V3KXtMHJq2YPK7xyl/giphy.gif" width="50"/>
 
 
