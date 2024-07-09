@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jincy Dev (ജിൻസി ദേവ്)✨</h1>
+<h1 align="center">Hi 👋, I'm Jincy Dev (ജിൻസി ദേവ്)✨ <a href="https://www.instagram.com/___jincy_dev___/" target="_blank">
+        <img src="https://media.giphy.com/media/XLRVGW0vOIpxqudH40/giphy.gif" alt="Instagram" width="50" />
+    </a></h1>
 <h3 align="center">A frontend developer from India <img src="https://media.giphy.com/media/65HR2UL6nn6XMSUoRA/giphy.gif" align = 'right' width="200"></h3>
   <img src="https://media.giphy.com/media/1V3KXtMHJq2YPK7xyl/giphy.gif" width="50"/>
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jincy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="jincy-dev" /> </p>
 
