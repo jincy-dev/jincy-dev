@@ -30,7 +30,7 @@ const jincy = {
     askMeAbout: ["web dev", "frontend design trends", "clean designing"],
     technologies: {
         frontEnd: {
-            js: ["React"],
+            js: ["React", "Next.js"],
             css: ["Bootstrap", "Tailwind", "Material UI", SCSS]
         },
         backEnd: {
