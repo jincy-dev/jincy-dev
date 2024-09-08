@@ -26,15 +26,15 @@
 ```javascript
 const jincy = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "Java"],
+    code: ["Javascript", "Typescript", "Java"],
     askMeAbout: ["web dev", "frontend design trends", "clean designing"],
     technologies: {
         frontEnd: {
             js: ["React"],
-            css: ["Bootstrap", "Tailwind", "Material UI"]
+            css: ["Bootstrap", "Tailwind", "Material UI", SCSS]
         },
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Java"],
         },
         mobileApp: {
             native: ["React", "Flutter"]
