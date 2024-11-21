@@ -25,13 +25,13 @@
 
 ```javascript
 const jincy = {
-    pronouns: "She" | "Her",
+    pronouns: ["She" | "Her"],
     code: ["Javascript", "Typescript", "Java"],
     askMeAbout: ["web dev", "frontend design trends", "clean designing"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
-            css: ["Bootstrap", "Tailwind", "Material UI", SCSS]
+            css: ["Bootstrap", "Tailwind", "Material UI", "SCSS"]
         },
         backEnd: {
             js: ["Node", "Java"],
@@ -42,7 +42,7 @@ const jincy = {
         databases: ["Firebase", "Mongo"],
         misc: ["Firebase", "Gitlab", "Git", "Kubernetes"]
     },
-  loveTo:["Sing and praise to God"],
+  loveTo: ["Sing and praise to God"],
 };
 ```
 
