@@ -8,7 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jincy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="jincy-dev" /> </p>
 
-- 🔭 I’m currently working on **Goldman Sachs** as **Full stack developer** via Capgemini
+- 📦 I’m currently working on **Amazon** as **SDE** via Deloitte
+
+- 🔭 Ex employee of **Goldman Sachs** as **FrontEnd Engineer** via Capgemini
 
 - 🌱 I’m currently learning **Everything**
 
