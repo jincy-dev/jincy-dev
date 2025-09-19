@@ -20,7 +20,7 @@
 - **Me: It's so easy 👻**, **Them: What🧐**, **Me: Coding😵‍💫** //Coz it's a fun fact 🤣
 
 
-  - Serving Npotice Peroid, LWD - **September 23, 2025** 
+  - Serving Notice Peroid, LWD - **September 23, 2025** 
 
 
 <h3>Me, Myself & I🌊🐇🫧🎤 </h3>
