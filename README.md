@@ -18,9 +18,9 @@
 
 - ⚡ Fun fact:  **When code didn't works, I've no idea why** | **When code works, I've no idea why🤯**
 - **Me: It's so easy 👻**, **Them: What🧐**, **Me: Coding😵‍💫** //Coz it's a fun fact 🤣
-  
 
 
+  - Serving Npotice Peroid, LWD - **September 23, 2025** 
 
 
 <h3>Me, Myself & I🌊🐇🫧🎤 </h3>
